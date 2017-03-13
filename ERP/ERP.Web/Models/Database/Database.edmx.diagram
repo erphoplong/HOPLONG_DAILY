@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c6b2b09aa6d1424aba6d509e87a5e0ab" Name="Diagram1">
+        <EntityTypeShape EntityType="ERP_DATABASEModel.CCTC_CONG_TY" Width="1.5" PointX="1.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.CCTC_MO_HINH_CONG_TY" Width="1.5" PointX="1.5" PointY="26.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.CCTC_NHAN_VIEN" Width="1.5" PointX="0.75" PointY="69.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.CCTC_PHONG_BAN" Width="1.5" PointX="0.75" PointY="29.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.CN_CHI_TIET_NGHIEP_VU" Width="1.5" PointX="6" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.CN_NGHIEP_VU" Width="1.5" PointX="3.75" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.CN_NGHIEP_VU_NHAN_VIEN" Width="1.5" PointX="8.25" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.CN_NHOM_NGHIEP_VU" Width="1.5" PointX="8.25" PointY="9.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.CN_NHOM_NGUOI_DUNG_NGHIEP_VU" Width="1.5" PointX="10.5" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.DM_CHUNG_TU" Width="1.5" PointX="12.75" PointY="46" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.DM_DOI_TUONG" Width="1.5" PointX="0.75" PointY="42.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.DM_KHO" Width="1.5" PointX="3" PointY="55.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.DM_LOAI_CHUNG_TU" Width="1.5" PointX="0.75" PointY="73.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.DM_LOAI_DOI_TUONG" Width="1.5" PointX="1.5" PointY="52.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.DM_LOAI_TK_NGAN_HANG" Width="1.5" PointX="1.5" PointY="66.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.DM_TAI_KHOAN_HACH_TOAN" Width="1.5" PointX="0.75" PointY="34.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.DM_TK_NGAN_HANG_NOI_BO" Width="1.5" PointX="1.5" PointY="61.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.DV" Width="1.5" PointX="9.75" PointY="46.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.HH" Width="1.5" PointX="3" PointY="35.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.HH_HANG_DUOC_QUAN_TAM" Width="1.5" PointX="11.25" PointY="32.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.HH_NHOM_VTHH" Width="1.5" PointX="1.5" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.HH_TON_KHO" Width="1.5" PointX="11.25" PointY="42.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.HH_TONKHO_HANG" Width="1.5" PointX="11.25" PointY="29.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.HT_NGUOI_DUNG" Width="1.5" PointX="1.5" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KH" Width="1.5" PointX="3.75" PointY="13.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KH_DC_XUAT_HANG" Width="1.5" PointX="6" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KH_LIEN_HE" Width="1.5" PointX="6" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KH_LOAI" Width="1.5" PointX="6.75" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KH_PHAN_LOAI_KHACH" Width="1.5" PointX="9" PointY="16.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KH_SALES_PHU_TRACH" Width="1.5" PointX="9.25" PointY="49.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KH_TK_NGAN_HANG" Width="1.5" PointX="14" PointY="41.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KHO_CHUYEN_KHO" Width="1.5" PointX="3" PointY="76" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KHO_CT_CHUYEN_KHO" Width="1.5" PointX="14.25" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KHO_CT_NHAP_KHO" Width="1.5" PointX="5.25" PointY="36.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KHO_CT_XUAT_KHO" Width="1.5" PointX="8.25" PointY="36" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KHO_NHAP_KHO" Width="1.5" PointX="3" PointY="70.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.KHO_XUAT_KHO" Width="1.5" PointX="6" PointY="46.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.MH_CT_HDMH" Width="1.5" PointX="6" PointY="29.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.MH_HDMH" Width="1.5" PointX="3.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.NCC" Width="1.5" PointX="1.5" PointY="19.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.NCC_LIEN_HE" Width="1.5" PointX="3.75" PointY="24.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.NCC_LOAI_HANG_CUNG_CAP" Width="1.5" PointX="6.75" PointY="21.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.NCC_LOAI_NHA_CUNG_CAP" Width="1.5" PointX="1.5" PointY="49.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.NCC_TK_NGAN_HANG" Width="1.5" PointX="3.75" PointY="49.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.NH_CHUYEN_TIEN_NOI_BO" Width="1.5" PointX="6" PointY="41.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.NH_CT_NTTK" Width="1.5" PointX="3" PointY="30.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.NH_CT_UNC" Width="1.5" PointX="9" PointY="29.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.NH_NTTK" Width="1.5" PointX="0.75" PointY="56.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.NH_UNC" Width="1.5" PointX="6.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.QUY_CT_PHIEU_CHI" Width="1.5" PointX="3" PointY="42.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.QUY_CT_PHIEU_THU" Width="1.5" PointX="9" PointY="41.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.QUY_PHIEU_CHI" Width="1.5" PointX="0.75" PointY="77.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.QUY_PHIEU_THU" Width="1.5" PointX="6.75" PointY="51.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.XL_THAM_CHIEU_CHUNG_TU" Width="1.5" PointX="15" PointY="46.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.MH_CT_HDMDV" Width="1.5" PointX="12" PointY="35.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ERP_DATABASEModel.MH_HDMDV" Width="1.5" PointX="8.75" PointY="12.625" IsExpanded="true" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_CHUNG___MA_CO__7849DB76" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_DOI_TU__MA_CO__7E02B4CC" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_KHACH___TRUC___1A69E950" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_KHO__TRUC_THU__6D0D32F4" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_TK_NGA__MA_CO__1BC821DD" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__HT_NGUOI___MA_CO__09A971A2" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_NHAP___TRUC___25A691D2" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_XUAT___TRUC___269AB60B" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__MH_HDMDV__TRUC_T__1387E197" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NB_CONG_T__CONG___1273C1CD" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NB_CONG_T__MO_HI__1367E606" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NB_PHONG___MA_CO__164452B1" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK_CN_NGHIEP_VU_CCTC_CONG_TY" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__CCTC_NHAN__MA_PH__08B54D69" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__CCTC_NHAN__USERN__5224328E" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_PHU_TR__SALES__473C8FC7" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CHUYE__NGUOI__2CBDA3B5" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_NHAP___NHAN___01D345B0" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_XUAT___NGUOI__13F1F5EB" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_XUAT___NHAN___11158940" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK_HH_HANG_DUOC_QUAN_TAM_CCTC_NHAN_VIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__DON_V__31B762FC" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__DON_V__681373AD" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__CN_CHI_TI__ID_NG__5629CD9C" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__CN_NGHIEP__ID_CH__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK_CN_NGHIEP_VU_NHAN_VIEN_HT_NGUOI_DUNG" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__CN_NHOM_N__ID_NH__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_CHUNG___MA_LO__7755B73D" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__XL_THAM_C__SO_CH__0FB750B3" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__XL_THAM_C__SO_CH__10AB74EC" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_DOI_TU__MA_LO__7D0E9093" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__MA_DO__50FB042B" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__MA_DO__5C6CB6D7" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__MA_DO__65F62111" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__MA_DO__66EA454A" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_CT_PH__MA_DO__44952D46" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_PHIEU__MA_DO__3552E9B6" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_PHIEU__MA_DO__3CF40B7E" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_HANG_T__MA_KH__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_KHO__MA_KHO_C__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_CH__NHAP___32767D0B" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_CH__XUAT___318258D2" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_NH__NHAP___0A338187" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_XU__XUAT___18B6AB08" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_NHAP___KEM_T__02C769E9" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_XUAT___KEM_T__1209AD79" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_NHAP___MA_DO__00DF2177" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_TK_NGA__LOAI___1CBC4616" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_TK_NGA__LOAI___1DB06A4F" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_TK_NGA__LOAI___1EA48E88" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_TAI_KH__TK_CA__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_NH__TK_CO__0A688BB1" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_NH__TK_KH__0B27A5C0" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_NH__TK_NO__09746778" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_XU__TK_CO__1B9317B3" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_XU__TK_KH__19AACF41" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_XU__TK_NO__1A9EF37A" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__MH_CT_HDM__TK_CH__1B29035F" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__MH_CT_HDM__TK_CO__1C1D2798" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__MUA_HANG___TK_KH__37FA4C37" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__MUA_HANG___TK_TH__436BFEE3" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__MUA_HANG___TK_TI__38EE7070" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__TK_CO__27F8EE98" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__TK_CO__2A164134" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__TK_CO__65370702" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__TK_NO__2704CA5F" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__TK_NO__29221CFB" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__TK_NO__6442E2C9" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_CT_PH__TK_CO__71D1E811" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_CT_PH__TK_CO__75A278F5" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_CT_PH__TK_NO__72C60C4A" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_CT_PH__TK_NO__76969D2E" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_CT_PH__TK_TH__73BA3083" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK_DM_HANG_HOA_DM_TAI_KHOAN_HACH_TOAN" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK_DM_HANG_HOA_DM_TAI_KHOAN_HACH_TOAN1" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK_DM_HANG_HOA_DM_TAI_KHOAN_HACH_TOAN2" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__TAI_K__2334397B" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__TAI_K__24285DB4" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__TAI_K__5BAD9CC8" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK_NGAN_HANG_NTTK_DM_TK_NGAN_HANG_NOI_BO" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__MH_CT_HDM__MA_DI__1A34DF26" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_HANG_H__MA_NH__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_HANG_T__MA_HA__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_TONKHO__MA_HA__4E53A1AA" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__HH_HANG_D__MA_HA__07220AB2" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_CH__MA_HA__308E3499" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_NH__MA_HA__078C1F06" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_XU__MA_HA__17C286CF" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_HANG_S__MA_NH__59FA5E80" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_LOAI_H__MA_NH__0F624AF8" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_NHA_CU__LOAI___6A30C649" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_TONKHO__MA_NH__6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_NHA_CU__MUA_H__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__NGUOI__2CF2ADDF" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__NGUOI__5D95E53A" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__NHAN___22751F6C" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__NHAN___5CA1C101" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_PHIEU__NGUOI__2FCF1A8A" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_PHIEU__NGUOI__30C33EC3" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_PHIEU__NHAN___778AC167" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_PHIEU__NHAN___787EE5A0" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_LIEN_H__MA_KH__7B264821" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_TK_NGA__MA_NH__17036CC0" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KH_DC_XUA__MA_KH__5F141958" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__XULY_PHAN__MA_KH__5B438874" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KH_SALES___ID_LI__689D8392" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_LOAI_K__MA_LO__58671BC9" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__XULY_PHAN__MA_LO__5C37ACAD" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_CH__SO_CH__2F9A1060" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_NH__SO_CH__0697FACD" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__KHO_CT_XU__SO_CH__16CE6296" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__MUA_HANG___SO_HD__370627FE" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__MH_CT_HDM__SO_HD__1940BAED" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__MUA_HANG___MA_NC__3429BB53" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_LIEN_H__MA_NH__693CA210" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_LOAI_H__MA_NH__0E6E26BF" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_NHA_CU__PHAN___7E37BEF6" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__DM_TK_NGA__MA_NH__14270015" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__MH_HDMDV__MA_NCC__1293BD5E" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_CT_PH__MA_NH__6FE99F9F" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__SO_CH__2645B050" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__NGAN_HANG__SO_CH__6166761E" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_CT_PH__SO_CH__70DDC3D8" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.FK__QUY_CT_PH__SO_CH__74AE54BC" ManuallyRouted="false" />
+        <AssociationConnector Association="ERP_DATABASEModel.CN_CHI_TIET_NHOM_NGHIEP_VU" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

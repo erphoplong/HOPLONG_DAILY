@@ -1,0 +1,192 @@
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\csc.exe
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\vbc.exe
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe
+E:\New\ERP_14022017\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\New\ERP_14022017\ERP\ERP.Web\bin\ERP.Web.dll.config
+E:\New\ERP_14022017\ERP\ERP.Web\bin\ERP.Web.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\ERP.Web.pdb
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Antlr3.Runtime.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\EntityFramework.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\EntityFramework.SqlServer.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\EPPlus.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.AI.Web.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Newtonsoft.Json.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Net.Http.Formatting.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Helpers.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Http.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Http.WebHost.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Mvc.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Optimization.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Razor.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.WebPages.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.WebPages.Razor.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\WebGrease.dll
+E:\New\ERP_14022017\ERP\ERP.Web\bin\EntityFramework.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\EntityFramework.SqlServer.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\EPPlus.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.AI.Web.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Newtonsoft.Json.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Net.Http.Formatting.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Helpers.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Http.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Http.WebHost.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Mvc.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Optimization.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.Razor.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.WebPages.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\System.Web.WebPages.Razor.xml
+E:\New\ERP_14022017\ERP\ERP.Web\bin\Antlr3.Runtime.pdb
+E:\New\ERP_14022017\ERP\ERP.Web\obj\Debug\ERP.Web.csprojResolveAssemblyReference.cache
+E:\New\ERP_14022017\ERP\ERP.Web\obj\Debug\ERP.Web.dll
+E:\New\ERP_14022017\ERP\ERP.Web\obj\Debug\ERP.Web.pdb
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\csc.exe
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\vbc.exe
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\ERP.Web.dll.config
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\ERP.Web.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\ERP.Web.pdb
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Antlr3.Runtime.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\EntityFramework.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\EntityFramework.SqlServer.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\EPPlus.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.AI.Web.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Newtonsoft.Json.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Net.Http.Formatting.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Helpers.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Http.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Http.WebHost.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Mvc.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Optimization.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Razor.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.WebPages.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.WebPages.Razor.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\WebGrease.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\EntityFramework.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\EntityFramework.SqlServer.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\EPPlus.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.AI.Web.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Newtonsoft.Json.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Net.Http.Formatting.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Helpers.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Http.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Http.WebHost.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Mvc.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Optimization.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.Razor.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.WebPages.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\System.Web.WebPages.Razor.xml
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\bin\Antlr3.Runtime.pdb
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\obj\Debug\ERP.Web.csprojResolveAssemblyReference.cache
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\obj\Debug\ERP.Web.dll
+E:\DUANCTY\ERP_17022017\ERP\ERP.Web\obj\Debug\ERP.Web.pdb
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\csc.exe
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\vbc.exe
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\ERP.Web.dll.config
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\ERP.Web.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\ERP.Web.pdb
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Antlr3.Runtime.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\EntityFramework.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\EntityFramework.SqlServer.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\EPPlus.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.AI.Web.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Newtonsoft.Json.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Net.Http.Formatting.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Helpers.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Http.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Http.WebHost.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Mvc.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Optimization.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Razor.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.WebPages.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.WebPages.Razor.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\WebGrease.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\EntityFramework.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\EntityFramework.SqlServer.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\EPPlus.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.AI.Web.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Newtonsoft.Json.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Net.Http.Formatting.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Helpers.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Http.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Http.WebHost.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Mvc.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Optimization.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.Razor.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.WebPages.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\System.Web.WebPages.Razor.xml
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\bin\Antlr3.Runtime.pdb
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\obj\Debug\ERP.Web.csprojResolveAssemblyReference.cache
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\obj\Debug\ERP.Web.dll
+E:\DUANCTY\ERP_17022017 - Copy\ERP\ERP.Web\obj\Debug\ERP.Web.pdb

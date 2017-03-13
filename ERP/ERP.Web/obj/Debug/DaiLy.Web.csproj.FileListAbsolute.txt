@@ -1,0 +1,193 @@
+E:\HOPLONGTECH\PROJECT\DaiLy\daily\ERP\ERP.Web\obj\Debug\DaiLy.Web.csprojResolveAssemblyReference.cache
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\csc.exe
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\vbc.exe
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\ERP.Web.dll.config
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\ERP.Web.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\ERP.Web.pdb
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Antlr3.Runtime.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\EntityFramework.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\EntityFramework.SqlServer.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\EPPlus.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.AI.Web.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Newtonsoft.Json.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Net.Http.Formatting.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Helpers.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Http.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Http.WebHost.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Mvc.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Optimization.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Razor.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.WebPages.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.WebPages.Razor.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\WebGrease.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\EntityFramework.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\EntityFramework.SqlServer.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\EPPlus.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.AI.Web.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Newtonsoft.Json.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Net.Http.Formatting.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Helpers.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Http.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Http.WebHost.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Mvc.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Optimization.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.Razor.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.WebPages.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\System.Web.WebPages.Razor.xml
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\bin\Antlr3.Runtime.pdb
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\obj\Debug\ERP.Web.dll
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\obj\Debug\ERP.Web.pdb
+D:\Users\LUC-JR\Desktop\daily\daily\ERP\ERP.Web\obj\Debug\DaiLy.Web.csprojResolveAssemblyReference.cache
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\csc.exe
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\vbc.exe
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\ERP.Web.dll.config
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\ERP.Web.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\ERP.Web.pdb
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Antlr3.Runtime.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\EntityFramework.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\EntityFramework.SqlServer.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\EPPlus.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.Web.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Newtonsoft.Json.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Net.Http.Formatting.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Helpers.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Http.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Http.WebHost.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Mvc.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Optimization.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Razor.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.Razor.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\WebGrease.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\EntityFramework.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\EntityFramework.SqlServer.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\EPPlus.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.Web.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Newtonsoft.Json.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Net.Http.Formatting.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Helpers.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Http.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Http.WebHost.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Mvc.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Optimization.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.Razor.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.Razor.xml
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\bin\Antlr3.Runtime.pdb
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\obj\Debug\DaiLy.Web.csprojResolveAssemblyReference.cache
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\obj\Debug\ERP.Web.dll
+E:\HOPLONGTECH\PROJECT\DaiLy\ERP\ERP.Web\obj\Debug\ERP.Web.pdb
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\csc.exe
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\vbc.exe
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\ERP.Web.dll.config
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\ERP.Web.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\ERP.Web.pdb
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Antlr3.Runtime.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\EntityFramework.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\EPPlus.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.Web.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Newtonsoft.Json.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Helpers.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Http.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Mvc.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Optimization.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Razor.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\WebGrease.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\EntityFramework.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\EPPlus.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.Web.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Newtonsoft.Json.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Helpers.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Http.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Mvc.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Optimization.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.Razor.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\bin\Antlr3.Runtime.pdb
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\obj\Debug\ERP.Web.dll
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\obj\Debug\ERP.Web.pdb
+C:\Users\HIEN\AppData\Roaming\Skype\My Skype Received Files\DaiLy(1)\DaiLy\ERP\ERP.Web\obj\Debug\DaiLy.Web.csprojResolveAssemblyReference.cache
